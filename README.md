@@ -22,26 +22,12 @@
 
 English | [简体中文](./README.zh-CN.md)
 
-## Introduction
+## Original link
 
-[vue-element-admin](http://panjiachen.github.io/vue-element-admin) is a front-end management background integration solution. It based on [vue](https://github.com/vuejs/vue) and use the UI Toolkit [element](https://github.com/ElemeFE/element).
+Original link：[vue-element-admin](http://panjiachen.github.io/vue-element-admin) 
 
-It is a magical vue admin based on the newest development stack of vue, built-in i18n solution, typical templates for enterprise applications, lots of awesome features. It helps you build a large complex Single-Page Applications. I believe whatever your needs are, this project will help you.
-
-- [Preview](http://panjiachen.github.io/vue-element-admin)
-
-- [Documentation](https://panjiachen.github.io/vue-element-admin-site/)
-
-- [Gitter](https://gitter.im/vue-element-admin/discuss)
-
-- [Wiki](https://github.com/PanJiaChen/vue-element-admin/wiki)
-
-- [Donate](https://panjiachen.github.io/vue-element-admin-site/donate/)
-
-**This project is positioned as a background integration solution and is not suitable for secondary development as a basic template.**
-
- - Base template recommends using: [vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template)  
- - Desktop: [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
+## Something add
+Add [about map],including BaiduMap and LeafletMap.
 
 ## Preparation
 
@@ -118,6 +104,7 @@ You need to install [node](http://nodejs.org/) and [git](https://git-scm.com/) l
 - Echarts
 - Clipboard
 - Markdown to html
+-About map
 ```
 
 ## Getting started
@@ -166,15 +153,6 @@ Detailed changes for each release are documented in the [release notes](https://
 
 ## Online Demo
 [Preview](http://panjiachen.github.io/vue-element-admin)
-
-## Donate
-If you find this project useful, you can buy author a glass of juice :tropical_drink:
-
-![donate](https://wpimg.wallstcn.com/bd273f0d-83a0-4ef2-92e1-9ac8ed3746b9.png)
-
-[Paypal Me](https://www.paypal.me/panfree23)
-
-[Buy me a coffee](https://www.buymeacoffee.com/Pan)
 
 ## License
 
